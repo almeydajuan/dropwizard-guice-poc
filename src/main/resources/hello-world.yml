@@ -1,1 +1,7 @@
-message: "Bonjour"
+template: Hello, %s!
+
+database:
+  driverClass: org.h2.Driver
+  user: juan
+  password: juan
+  url: jdbc:h2:mem:juan
