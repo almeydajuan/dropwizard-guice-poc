@@ -11,3 +11,5 @@ This is a simple app which shows how simple is:
 * Manage dependency injection
 * Configure the persistence layer
 * Web services with JAX-RX
+
+It must be run by the command: java -jar $JAR server $ymlFile
